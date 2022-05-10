@@ -338,7 +338,7 @@ flex-wrap: wrap;
  }
 
 #footer{
-	background: #fff;
+	background: linear-gradient(to right, #080808, #FFF);
 	align-items: center;
 	height: auto;
 	width: 100%;
